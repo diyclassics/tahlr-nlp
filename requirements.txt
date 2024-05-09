@@ -1,0 +1,20 @@
+beautifulsoup4==4.12.3
+cltk-readers @ git+https://github.com/diyclassics/cltk_readers.git@e3a8a1315da86eab68c61ad926f744945cf235e6
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+la-core-web-lg @ https://huggingface.co/latincy/la_core_web_lg/resolve/main/la_core_web_lg-any-py3-none-any.whl#sha256=5d6e6600651a69bdb4d73d042cc617bbc7c7da6dafb2aa25c387611a189b1b19
+la-core-web-sm @ https://huggingface.co/latincy/la_core_web_sm/resolve/main/la_core_web_sm-any-py3-none-any.whl#sha256=a6b04bc69e0caf4b519d8523c1f6ddcf24940ba35975b12dc67bb9f6601dba99
+matplotlib==3.8.3
+natsort==8.2.0
+nlpia @ git+https://github.com/diyclassics/nlpia.git@5becd89630ddaafc1bda931cc5ca214a397ed492
+nltk==3.8.1
+numpy==1.22.1
+pandas==2.2.1
+pugnlp @ git+https://github.com/diyclassics/pugnlp.git@efcee103073faf05eb8e1d60d74ae16c09efc1f7
+pytesseract==0.3.10
+requests==2.31.0
+scipy==1.12.0
+seaborn==0.13.2
+spacy==3.7.4
+tabulate==0.9.0
+tqdm==4.66.2
+urllib3==2.2.1
